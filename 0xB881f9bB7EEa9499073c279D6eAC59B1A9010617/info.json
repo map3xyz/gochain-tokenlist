@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0xB881f9bB7EEa9499073c279D6eAC59B1A9010617",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "9225a7a0-affb-4508-a65b-9a47c4905ee9",
+  "links": {
+    "explorer": "https://explorer.gochain.io/addr/0xB881f9bB7EEa9499073c279D6eAC59B1A9010617"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/gochain-tokenlist/master/0xB881f9bB7EEa9499073c279D6eAC59B1A9010617/logo.png"
+  },
+  "name": "Go A2ZHome",
+  "networkCode": "gochain",
+  "spam": false,
+  "symbol": "A2Z",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

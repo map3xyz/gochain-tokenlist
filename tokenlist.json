@@ -1,0 +1,83 @@
+{
+  "name": "@Map3/gochain-tokenlist",
+  "timestamp": "2022-08-18T13:25:26.204Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x064353B5C02A9F35979524Ebbfff4042151cF0c6",
+      "name": "BosTravel",
+      "decimals": 18,
+      "symbol": "BOT",
+      "tags": []
+    },
+    {
+      "address": "0x473A70391d961D1D81044f7e2b69eeCd59dc355c",
+      "name": "GoDental",
+      "decimals": 18,
+      "symbol": "GOD",
+      "tags": []
+    },
+    {
+      "address": "0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF",
+      "name": "ECOMI",
+      "decimals": 18,
+      "symbol": "OMI",
+      "tags": []
+    },
+    {
+      "address": "0x53A6Bec3126BCE4e0dE349a9Ad3D9e4F997E76C4",
+      "name": "Lam Anh Dental",
+      "decimals": 18,
+      "symbol": "LAD",
+      "tags": []
+    },
+    {
+      "address": "0x721Cc970CB5A22915f7663a6833E605deDDb7B92",
+      "name": "PAZTether",
+      "decimals": 18,
+      "symbol": "PAZT",
+      "tags": []
+    },
+    {
+      "address": "0xB881f9bB7EEa9499073c279D6eAC59B1A9010617",
+      "name": "Go A2ZHome",
+      "decimals": 18,
+      "symbol": "A2Z",
+      "tags": []
+    }
+  ]
+}

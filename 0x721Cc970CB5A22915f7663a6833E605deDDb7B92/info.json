@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x721Cc970CB5A22915f7663a6833E605deDDb7B92",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "82a24120-2d0b-4d17-8d51-7baf55e5c757",
+  "links": {
+    "explorer": "https://explorer.gochain.io/addr/0x721Cc970CB5A22915f7663a6833E605deDDb7B92"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/gochain-tokenlist/master/0x721Cc970CB5A22915f7663a6833E605deDDb7B92/logo.png"
+  },
+  "name": "PAZTether",
+  "networkCode": "gochain",
+  "spam": false,
+  "symbol": "PAZT",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

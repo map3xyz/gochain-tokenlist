@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0x473A70391d961D1D81044f7e2b69eeCd59dc355c",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "dc476ffb-8ce8-4976-9b84-9da4567b54f2",
+  "links": {
+    "explorer": "https://explorer.gochain.io/addr/0x473A70391d961D1D81044f7e2b69eeCd59dc355c"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/gochain-tokenlist/master/0x473A70391d961D1D81044f7e2b69eeCd59dc355c/logo.png"
+  },
+  "name": "GoDental",
+  "networkCode": "gochain",
+  "spam": false,
+  "symbol": "GOD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
