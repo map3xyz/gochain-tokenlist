@@ -1,0 +1,22 @@
+{
+  "active": false,
+  "address": "0x53A6Bec3126BCE4e0dE349a9Ad3D9e4F997E76C4",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "bd94686c-6e0e-4db9-917a-a9a7744f5213",
+  "links": {
+    "explorer": "https://explorer.gochain.io/addr/0x53A6Bec3126BCE4e0dE349a9Ad3D9e4F997E76C4"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/gochain/assets/gochain-tokenlist/0x53A6Bec3126BCE4e0dE349a9Ad3D9e4F997E76C4/logo.png"
+  },
+  "name": "Lam Anh Dental",
+  "networkCode": "gochain",
+  "spam": false,
+  "symbol": "LAD",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

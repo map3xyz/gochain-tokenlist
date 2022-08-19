@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "address": "0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ECOMI’s mission is to create the world’s best platform to purchase, protect and collect premium licensed digital collectibles using Distributed Ledger Technology."
+  },
+  "id": "b32dcec9-f136-4e68-9bb1-fed7fb2b7884",
+  "links": {
+    "explorer": "https://explorer.gochain.io/addr/0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF",
+    "website": "https://www.ecomi.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/gochain/assets/gochain-tokenlist/0x5347FDeA6AA4d7770B31734408Da6d34a8a07BdF/logo.png"
+  },
+  "name": "ECOMI",
+  "networkCode": "gochain",
+  "spam": false,
+  "symbol": "OMI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
